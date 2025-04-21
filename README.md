@@ -17,7 +17,7 @@
 ### 💼 My Projects
 
 - **Insulin Prediction System** – Predicts insulin units from glucose using ML  
-  🔜 *Repo coming soon*
+  *(https://github.com/rc-dev16/SpaceLog)*
 - **Space Missions CRUD** – Modern frontend project with sorting and searching  
   🔜 *Repo coming soon*
 
