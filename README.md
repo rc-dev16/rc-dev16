@@ -43,8 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanchawda&show_icons=true&theme=radical" alt="stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanchawda&theme=radical" alt="streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanchawda&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rohanchawda&theme=radical" alt="GitHub Streak" width="400" />
 </p>
 
 ---
