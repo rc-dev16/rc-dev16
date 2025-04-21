@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Chawda</h1>
 <h3 align="center">CS Undergrad | Project Builder | IoT & ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanchawda&label=Profile%20views&color=0e75b6&style=flat" alt="rohanchawda" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
