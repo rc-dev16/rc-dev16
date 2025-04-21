@@ -13,7 +13,7 @@
   - 🚀 **Space Missions CRUD** project with Night Mode UI
   - 🤖 **Insulin Prediction System** using Linear Regression & Streamlit
 - 🌱 Learning: DSA, Node.js, SQL, MVC Architecture
-- 👨‍💻 All of my projects are available at: [github.com/rohanchawda](https://github.com/rohanchawda)
+- 👨‍💻 All of my projects are available at: [github.com/rohanchawda](https://github.com/rc-dev16)
 - 📫 Reach me: `rohanc1604@gmail.com`
 
 ---
