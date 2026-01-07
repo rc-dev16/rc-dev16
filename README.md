@@ -19,7 +19,19 @@ Hi 👋, I'm Rohan Chawda<br>CS Undergrad | Project Builder | IoT & ML Enthusias
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rc-dev16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3Drc-dev16%26limit%3D5%26theme%3Dradical%26combine_all_yearly_contributions%3Dtrue" />
+</div>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=rc-dev16&icon=3&color=0" />
+</a>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rc-dev16&icon=3&color=0)](https://visitcount.itsvg.in)
