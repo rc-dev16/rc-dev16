@@ -11,29 +11,3 @@ Hi 👋, I'm Rohan Chawda<br>CS Undergrad | Project Builder | IoT & ML Enthusias
 ![](https://github-readme-stats.vercel.app/api?username=rc-dev16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rc-dev16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rc-dev16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rc-dev16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3Drc-dev16%26limit%3D5%26theme%3Dradical%26combine_all_yearly_contributions%3Dtrue" />
-</div>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=rc-dev16&icon=3&color=0" />
-</a>
-
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=rc-dev16&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
